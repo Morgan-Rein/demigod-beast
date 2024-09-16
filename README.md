@@ -8,7 +8,7 @@
 
 ```csharp
 🦠| .You need to scan and get session using pair code
-🦠| .Upload session to { Daggerses }
+🦠| .Upload session to [creds.json](https://github.com/Khalid-official/not-available/edit/main/session/creds.json)
 🦠| .Go to [Heroku](heroku.com) 
 
 
